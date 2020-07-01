@@ -1,8 +1,9 @@
 # Comparison of different classifier models and predict the type of Cardiac Arrhythmia
  Cardiac arrhythmia is any abnormal heart rate. Cardiac arrhythmia is classified into 16 different classes namely:
 
-Class Type...................Class Name
-1............................Normal
+###Class Type                    Class Name
+
+1                             Normal
 2............................Ischemic changes (Coronary Artery Disease)
 3............................Old Anterior Myocardial Infarction
 4............................Old Inferior Myocardial Infarction
