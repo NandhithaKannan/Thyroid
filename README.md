@@ -4,7 +4,7 @@ Dataset taken from https://archive.ics.uci.edu/ml/datasets/Arrhythmia.
 
  A cardiac arrhythmia is a kind of problem where the person's heart beats too fast or too slow i.e irregular heart rate. Usually it is classified into 16 types namely:
  
- ![](C:\Users\knand\Desktop\p.PNG)
+ ![image](C:\Users\knand\Desktop\p.PNG)
 
 
 
